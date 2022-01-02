@@ -1,0 +1,5 @@
+name: CommandBlocker
+main: com.github.iamtakagi.commandblocker.CommandBlocker
+version: 1.0
+author: iamtakagi
+api-version: 1.17

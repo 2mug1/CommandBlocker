@@ -1,0 +1,15 @@
+settings:
+  # 無効化したいコマンド  
+  blocked_commands:
+  - '//calc'
+  - '//eval'
+  - '//solve'
+  - '/bukkit:'
+  - '/me'
+  - '/bukkit:me'
+  - '/minecraft:'
+  - '/minecraft:me'
+  - '/version'
+  - '/ver'
+  # 拒否メッセージ
+  deny_message: '&rUnknown command. Type "/help" for help.'
