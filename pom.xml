@@ -3,7 +3,7 @@
 
   <groupId>com.github.iamtakagi.commandblocker</groupId>
   <artifactId>CommandBlocker</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <description>A Command Blocker for Paper</description>
   <packaging>jar</packaging>
 
