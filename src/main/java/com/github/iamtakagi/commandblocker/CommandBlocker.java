@@ -37,7 +37,7 @@ public class CommandBlocker extends JavaPlugin implements Listener {
 			if (message.startsWith(blockedCommand)) {
 				player.sendMessage(this.denyMessage);
 				event.setCancelled(true);
-				return;
+				break;
 			}
 		}
 	}
