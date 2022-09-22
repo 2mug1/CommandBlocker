@@ -1,5 +1,5 @@
 # CommandBlocker
-コマンドを無効化するプラグイン
+特定のコマンドを無効化するプラグイン
 
 OP権限プレイヤー もしくは パーミッションノード (`commandblocker.ignore`) を所持しているプレイヤーは `config.yml` で設定したコマンドの実行が無効化されます。
 
@@ -9,4 +9,4 @@ OP権限プレイヤー もしくは パーミッションノード (`commandblo
 `mvn clean package`
 
 ## LICENSE
-MITLicence.
+MIT Licence.
